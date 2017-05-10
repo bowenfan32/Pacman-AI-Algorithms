@@ -9,3 +9,5 @@ Multi-Agent Search: Classic Pacman is modeled as both an adversarial and a stoch
 
 
 Reinforcement Learning: Implemented model-based and model-free reinforcement learning algorithms, applied to the AIMA textbook's Gridworld, Pacman, and a simulated crawling robot.
+
+Master branch has been deleted and replaced by another branch to stop Google from indexing the repository as per agreement with UC Berkeley to not distribute the solutions of the project.
